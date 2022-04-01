@@ -2,8 +2,8 @@
   {
     "name": "ion-c",
     "category": "core",
-    "latest_release_version": "1.0.4",
-    "latest_release_date": "2021-01-01",
+    "latest_release_version": "1.0.6",
+    "latest_release_date": "2022-03-28",
     "documentation": "https://amzn.github.io/ion-c/"
   },
   {
@@ -15,8 +15,8 @@
   {
     "name": "ion-java",
     "category": "core",
-    "latest_release_version": "1.9.2",
-    "latest_release_date": "2021-01-11",
+    "latest_release_version": "1.9.3",
+    "latest_release_date": "2022-03-23",
     "documentation": "https://www.javadoc.io/doc/com.amazon.ion/ion-java/"
   },
   {
@@ -57,7 +57,7 @@
   {
     "name": "ion-hive-serde",
     "category": "extension",
-    "latest_release_version": "0.9.0",
-    "latest_release_date": "2021-01-11"
+    "latest_release_version": "1.0.0",
+    "latest_release_date": "2022-03-15"
   }
 ]
